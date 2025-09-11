@@ -8,7 +8,7 @@ public class PromptGenerator
         "How did I see the hand of the Lord in my life today?",
         "What do I love most about my family?",
         "What is my favorite scripture?",
-        "What do I love most about your friends?"
+        "What do I love most about my friends?"
     };
     private Random random = new Random();
     public string GetRandomPrompt()
