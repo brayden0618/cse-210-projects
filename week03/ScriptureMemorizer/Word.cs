@@ -3,7 +3,7 @@ using System;
 public class Word
 {
     private string _text;
-    public bool _isHidden;
+    private bool _isHidden;
 
     public Word(string text)
     {
